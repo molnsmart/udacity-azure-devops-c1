@@ -20,4 +20,4 @@ For this project, you will write a Packer template and a Terraform template to d
 **Your words here**
 
 ### Output
-**Your words here**
+**Your words here*
